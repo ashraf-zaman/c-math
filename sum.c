@@ -8,7 +8,7 @@ int main()
 
     sum = num1 + num2;
 
-    printf("The subtraction is = %d",sum);
+    printf("The sum is = %d",sum);
 
     getch();
     return 0;
